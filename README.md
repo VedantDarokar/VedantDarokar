@@ -79,11 +79,6 @@
 
 ## 🐍 Contribution Snake:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vedantdarokar/vedantdarokar/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/vedantdarokar/vedantdarokar/output/snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
-
-## ✨ Fun Quote:
-<p align="center">
-  <i>“The best error message is the one that never shows up.”</i> 💡
-</p>
