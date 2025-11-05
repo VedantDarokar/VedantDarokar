@@ -1,12 +1,11 @@
-<!-- ✨ Neon Dark GitHub Profile for Vedant Darokar ✨ -->
+<!-- ⚡ Neon Dark GitHub Profile for Vedant Darokar ⚡ -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Vedant+Darokar!;Full+Stack+Developer+%7C+DevOps+Enthusiast;From+India+🇮🇳" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">⚡ Passionate about Building, Automating, and Deploying Modern Web Applications ⚡</h3>
+<h3 align="center">💡 Passionate about Building, Automating, and Deploying Modern Web Applications</h3>
 
----
 
 ### 🌐 Connect with Me:
 <p align="center">
@@ -16,7 +15,6 @@
   <a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FFFF" /></a>
 </p>
 
----
 
 ## 💻 Programming Languages:
 <p align="center">
@@ -27,7 +25,6 @@
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </p>
 
----
 
 ## 🧩 Frameworks & Libraries:
 <p align="center">
@@ -39,7 +36,6 @@
   <img src="https://img.shields.io/badge/MongoDB-001100?style=for-the-badge&logo=mongodb&logoColor=00FFAA" />
 </p>
 
----
 
 ## ☁️ DevOps, Cloud & CI/CD Tools:
 <p align="center">
@@ -51,7 +47,6 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=00FFFF" />
 </p>
 
----
 
 ## 🚀 Deployment & Hosting Platforms:
 <p align="center">
@@ -60,7 +55,6 @@
   <img src="https://img.shields.io/badge/Netlify-001F1F?style=for-the-badge&logo=netlify&logoColor=00FFFF" />
 </p>
 
----
 
 ## ⚡ GitHub Stats:
 <p align="center">
@@ -68,7 +62,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantdarokar&layout=compact&theme=radical&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" height="160px"/>
 </p>
 
----
 
 ## 🔥 Commit Streak & Activity Graph:
 <p align="center">
@@ -77,37 +70,20 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantdarokar&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
----
 
 ## 🏆 Achievements:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vedantdarokar&theme=matrix&no-frame=true&row=1&column=6" />
 </p>
 
----
 
 ## 🐍 Contribution Snake:
 <p align="center">
-  <img src="https://github.com/vedantdarokar/vedantdarokar/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/vedantdarokar/vedantdarokar/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
----
 
 ## ✨ Fun Quote:
 <p align="center">
   <i>“The best error message is the one that never shows up.”</i> 💡
-</p>
-
----
-
-## 👀 Visitor Count:
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=vedantdarokar&icon=5&color=00FFFF" />
-</p>
-
----
-
-## 🎨 Aesthetic Banner (Optional)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vedantdarokar/vedantdarokar/main/A_2D_digital_graphic_design_showcases_Vedant_Darok.png" alt="Vedant Banner" width="800" />
 </p>
