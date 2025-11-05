@@ -77,7 +77,7 @@
 </p>
 
 
-##⚡ My Neon Contribution Snake ⚡
+## ⚡ My Neon Contribution Snake ⚡
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/vedantdarokar/vedantdarokar/output/snake.svg" 
