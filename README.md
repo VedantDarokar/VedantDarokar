@@ -1,7 +1,7 @@
 <!-- ⚡ Neon Dark GitHub Profile for Vedant Darokar ⚡ -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Vedant+Darokar!;Full+Stack+Developer+%7C+DevOps+Enthusiast;From+India+🇮🇳" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Vedant+Darokar!;Full+Stack+Developer+%7C+DevOps+Enthusiast;From+India" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">💡 Passionate about Building, Automating, and Deploying Modern Web Applications</h3>
@@ -77,8 +77,10 @@
 </p>
 
 
-## 🐍 Contribution Snake:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vedantdarokar/vedantdarokar/output/snake.svg" alt="GitHub Contribution Snake Animation" />
-</p>
+##⚡ My Neon Contribution Snake ⚡
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vedantdarokar/vedantdarokar/output/snake.svg" 
+       alt="Neon GitHub Contribution Snake" 
+       style="filter: drop-shadow(0 0 10px #00FFFF) drop-shadow(0 0 20px #FF00FF);" />
+</p>
