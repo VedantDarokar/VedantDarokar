@@ -1,87 +1,113 @@
-<h1 align="center">Hi 👋, I'm Vedant Darokar</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<!-- ✨ Neon Dark GitHub Profile for Vedant Darokar ✨ -->
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Vedant+Darokar!;Full+Stack+Developer+%7C+DevOps+Enthusiast;From+India+🇮🇳" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">⚡ Passionate about Building, Automating, and Deploying Modern Web Applications ⚡</h3>
+
+---
+
+### 🌐 Connect with Me:
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vedantdarokar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/vedantdarokar" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FFFF" /></a>
+  <a href="https://linkedin.com/in/vedantdarokar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00FFFF" /></a>
+  <a href="mailto:vedantdarokar7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=00FFFF" /></a>
+  <a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FFFF" /></a>
 </p>
 
+---
+
+## 💻 Programming Languages:
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vedantdarokar&theme=onedark" alt="GitHub Trophies" />
-  </a>
+  <img src="https://img.shields.io/badge/C-0A0A0A?style=for-the-badge&logo=c&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FF5F00" />
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </p>
 
 ---
 
-- 🔭 I’m currently learning **DSA**  
-- 👯 I’m looking to collaborate on **Full Stack Development**  
-- 📫 Reach me at **vedantdarokar7@gmail.com**
-
----
-
-### 💬 Connect with me:
-<p align="left">
-<!-- Add LinkedIn / Portfolio / Social Links here -->
-</p>
-
----
-
-## 🧠 Programming Languages:
-<p align="left">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
----
-
-## ⚛️ Frameworks & Libraries:
-<p align="left">
-  <img src="https://img.shields.io/badge/Angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/EJS-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
----
-
-## ☁️ DevOps & Cloud:
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-%23007ACC.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
-</p>
-
----
-
-## 🚀 Deployment & Hosting:
-<p align="left">
-  <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
----
-
-## 👁️ Profile Visits:
+## 🧩 Frameworks & Libraries:
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=vedantdarokar&label=Profile%20Views&color=0&icon=5&pretty=true" alt="Visit Count" />
-  </a>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=00FFAA" />
+  <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/EJS-1B1B1B?style=for-the-badge&logo=ejs&logoColor=00FFAA" />
+  <img src="https://img.shields.io/badge/MongoDB-001100?style=for-the-badge&logo=mongodb&logoColor=00FFAA" />
 </p>
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vedantdarokar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+## ☁️ DevOps, Cloud & CI/CD Tools:
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/Jenkins-0D1117?style=for-the-badge&logo=jenkins&logoColor=FF4C4C" />
+  <img src="https://img.shields.io/badge/Terraform-0D1117?style=for-the-badge&logo=terraform&logoColor=9B30FF" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=00FFFF" />
 </p>
 
+---
+
+## 🚀 Deployment & Hosting Platforms:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedantdarokar&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/Render-001100?style=for-the-badge&logo=render&logoColor=00FFAA" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/Netlify-001F1F?style=for-the-badge&logo=netlify&logoColor=00FFFF" />
+</p>
+
+---
+
+## ⚡ GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vedantdarokar&show_icons=true&theme=radical&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantdarokar&layout=compact&theme=radical&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" height="160px"/>
+</p>
+
+---
+
+## 🔥 Commit Streak & Activity Graph:
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=vedantdarokar&theme=highcontrast&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantdarokar&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vedantdarokar&theme=matrix&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🐍 Contribution Snake:
+<p align="center">
+  <img src="https://github.com/vedantdarokar/vedantdarokar/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## ✨ Fun Quote:
+<p align="center">
+  <i>“The best error message is the one that never shows up.”</i> 💡
+</p>
+
+---
+
+## 👀 Visitor Count:
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=vedantdarokar&icon=5&color=00FFFF" />
+</p>
+
+---
+
+## 🎨 Aesthetic Banner (Optional)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vedantdarokar/vedantdarokar/main/A_2D_digital_graphic_design_showcases_Vedant_Darok.png" alt="Vedant Banner" width="800" />
 </p>
