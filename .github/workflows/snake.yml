@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Neon Snake Animation
 
 on:
   schedule:
@@ -13,16 +13,21 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # required to access commit history
+          fetch-depth: 0  # Required to access commit history
 
-      - name: Generate Snake
+      - name: Generate Neon Snake 🐍
         uses: Platane/snk@v3
         id: snake
         with:
           github_user_name: vedantdarokar
           outputs: dist/snake.svg
+          snake_color: "#00FFFF"       # Neon Cyan snake
+          snake_head_color: "#FF00FF"  # Neon Pink head
+          grid_color: "#0D1117"        # Dark grid for dark theme
+          background_color: "#000000"  # Pure black background
+          color_snake: "neon"          # Use vibrant, glowing colors
 
-      - name: Push Snake Animation to Output Branch
+      - name: Push Snake Animation to Output Branch 🚀
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
