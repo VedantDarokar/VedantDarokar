@@ -1,8 +1,8 @@
 name: Generate Snake Animation
 
 on:
-  schedule: # Runs every 24 hours
-    - cron: "0 */24 * * *"
+  schedule:
+    - cron: "0 */12 * * *"  # Runs every 12 hours
   workflow_dispatch:
 
 jobs:
@@ -12,9 +12,12 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # required to access commit history
 
       - name: Generate Snake
         uses: Platane/snk@v3
+        id: snake
         with:
           github_user_name: vedantdarokar
           outputs: dist/snake.svg
