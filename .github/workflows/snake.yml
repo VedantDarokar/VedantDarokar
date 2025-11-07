@@ -2,7 +2,7 @@ name: Generate Neon Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Runs every 12 hours
+    - cron: "*/5 * * * *"  # Runs every 5 minutes (minimum allowed)
   workflow_dispatch:
 
 jobs:
@@ -25,7 +25,7 @@ jobs:
           snake_head_color: "#FF00FF"  # Neon Pink head
           grid_color: "#0D1117"        # Dark grid for dark theme
           background_color: "#000000"  # Pure black background
-          color_snake: "neon"          # Use vibrant, glowing colors
+          color_snake: "neon"          # Vibrant glowing colors
 
       - name: Push Snake Animation to Output Branch 🚀
         uses: crazy-max/ghaction-github-pages@v3
